@@ -348,3 +348,20 @@ I also used Maltego to visualize and correlate the relationship between the netw
 The exercises demonstrated the importance of distinguishing between a security observation and a confirmed vulnerability. Identifying a software version, DNS record or open port does not automatically mean that the system is vulnerable. Further authorized testing would be required to validate any potential security weakness.
 
 - Finally, I learned that reconnaissance and network scanning must always be performed within an authorized scope. The activities documented in this report were performed as part of the assigned educational cybersecurity practical.
+
+---
+## 8. Evidence Collected
+<img width="530" height="347" alt="Screenshot 2026-08-18 170905" src="https://github.com/user-attachments/assets/651ea639-a8d5-4fe7-8f66-e4dd2014f73c" />
+<img width="376" height="353" alt="Screenshot 2026-08-18 170109" src="https://github.com/user-attachments/assets/27150508-9a79-406c-9477-99f18fb4f419" />
+<img width="347" height="216" alt="Screenshot 2026-08-18 171329" src="https://github.com/user-attachments/assets/5b8bf8f8-5dc2-4e5e-a017-76021f362896" />
+
+<img width="178" height="78" alt="Screenshot 2026-08-18 172514" src="https://github.com/user-attachments/assets/e0a038df-0b96-4870-850c-2b50b794ca3a" />
+<img width="542" height="211" alt="Screenshot 2026-08-18 171445" src="https://github.com/user-attachments/assets/58043c14-77ca-4594-86dd-a37f03cce2c9" />
+
+<img width="553" height="136" alt="Screenshot 2026-08-18 172312" src="https://github.com/user-attachments/assets/824f7e52-f93f-4ec4-9372-93ac894f32f6" />
+
+<img width="956" height="505" alt="Screenshot 2026-08-20 163556" src="https://github.com/user-attachments/assets/4fc54285-5095-476e-bdb3-13be7017664a" />
+
+<img width="591" height="468" alt="Screenshot 2026-08-20 164720" src="https://github.com/user-attachments/assets/762ed877-fc99-4eda-9198-ed5819385920" />
+<img width="317" height="268" alt="Screenshot 2026-08-20 175103" src="https://github.com/user-attachments/assets/9202dafd-7850-4e21-8948-18d39cdd4340" />
+
